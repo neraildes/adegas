@@ -1,1 +1,2 @@
 firmware_260615.120348.bin
+firmware_260615.130143.bin

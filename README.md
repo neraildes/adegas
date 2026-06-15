@@ -1,0 +1,2 @@
+# adegas
+Repositorio de firmwares
